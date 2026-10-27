@@ -145,3 +145,13 @@ progress {
         transform: rotate(360deg);
     }
 }
+
+#status {
+    color: var(--fg-secondary);
+    font-size: 0.9em;
+    margin: 0.75em 0 0;
+}
+
+.muted {
+    color: var(--fg-secondary);
+}
